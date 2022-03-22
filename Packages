@@ -27,3 +27,18 @@ Size: 1572
 MD5sum: ab5f115d63a652ce1f2dde663f3a72cd
 SHA1: 2a61af28d239221c9d3ad02b0fffccbd156584c4
 SHA256: 5c3863e6413304e1fc74d3cab972873eba853c95423f09755b7923d4357f9b89
+
+Package: com.eliodev.zoomjbdetectionbypass
+Name: zoom jailbreak detection bypass
+Version: 1.0
+Architecture: iphoneos-arm
+Description: hides zoom jailbreak detection alert on startup when launching the zoom app
+Maintainer: ElioDev
+Author: ElioDev
+Section: Tweaks
+Depends:mobilesubstrate
+Filename:./debs/zoomjbdetectionbypass1.0.deb
+Size: 3800
+MD5sum: 7a1355c28282dd9b2b5ceb4aaef20004
+SHA1: 150a378621429e7c8b2c20907e1607e76d2e4f7b
+SHA256: b536bcb10afa83cd80ebd1a1ca013913d096abe58ac60039658374a1c841f65b
