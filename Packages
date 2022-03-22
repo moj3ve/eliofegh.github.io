@@ -28,7 +28,7 @@ MD5sum: ab5f115d63a652ce1f2dde663f3a72cd
 SHA1: 2a61af28d239221c9d3ad02b0fffccbd156584c4
 SHA256: 5c3863e6413304e1fc74d3cab972873eba853c95423f09755b7923d4357f9b89
 
-Package: com.eliodev.zoomjbdetectionbypass
+Package: com.eliodev.zoomjailbreakdetection
 Name: zoom jailbreak detection bypass
 Version: 1.0
 Architecture: iphoneos-arm
