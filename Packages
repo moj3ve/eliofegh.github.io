@@ -5,7 +5,7 @@ Architecture: iphoneos-arm
 Description: enable fonts in duolingo
 Maintainer: ElioDev
 Author: ElioDev
-Section: tweak
+Section: Tweaks
 Depends: plutil
 Filename:./debs/com.eliodev.duolingo-font-enabler-1.0.deb
 Size: 1684
@@ -20,10 +20,10 @@ Architecture: iphoneos-arm
 Description: enable fonts in twitter
 Maintainer: ElioDev
 Author: ElioDev
-Section: tweak
+Section: Tweaks
 Depends: plutil
 Filename:./debs/com.eliodev.twitter-font-enabler-1.0.deb
-Size: 1584
+Size: 1572
 MD5sum: ab5f115d63a652ce1f2dde663f3a72cd
 SHA1: 2a61af28d239221c9d3ad02b0fffccbd156584c4
 SHA256: 5c3863e6413304e1fc74d3cab972873eba853c95423f09755b7923d4357f9b89
