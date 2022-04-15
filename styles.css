@@ -16,3 +16,10 @@
     background-color: cornflowerblue;
     color: #ffff;
 }
+span{
+    margin-left: 5em;
+    border: solid black 2px;
+    border-radius: 1.2em;
+    padding: 1.2em;
+    font-size: 1.1em;
+}
