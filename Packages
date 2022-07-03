@@ -58,3 +58,20 @@ MD5sum: 4f27bdcd168782490d7b870d84dfe56e
 SHA1: d496d8e7d2d7f43c60b0d2e955506ff5239e2aab
 SHA256: df871e1362266449cb6c682c8757076724ae66c721a937dfa810d69c25229f3c
 
+Package: com.eliodev.factorial-tool
+Name: Factorial tool
+Version: 1.1
+Architecture: iphoneos-arm
+Description: do math!!!!
+Maintainer: ElioFegh
+Author: ElioFegh
+Section: Tweaks
+Depends: mobilesubstrate
+Filename:./debs/com.eliodev.factorial-tool-1.1.deb
+Size: 4536
+MD5sum: 766546e7fa9ee0dcdbc2e7579658b6bf
+SHA1: edaf8355cf63788362f55b3f525682a6f8fc312e
+SHA256: 62ebfd50aaa951d2e03d9a41003029b456c3b0d93b4b81c7263e5c4718d9c0ed
+
+
+
