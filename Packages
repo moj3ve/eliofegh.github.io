@@ -1,6 +1,6 @@
 Package: com.eliodev.duolingo-font-enabler
 Name: duolingo font enabler
-Version: 1.1 beta
+Version: 1.0
 Architecture: iphoneos-arm
 Description: This bash script enables fonts in Duolingo. It is safe to use but it's still a script
 Maintainer: ElioFegh
@@ -15,7 +15,7 @@ SHA256: 23bdbb8ddf33a7ca88aacce9c7d4fb0834d0db60bd5cbd1cadc339c4562562bc
 
 Package: com.eliodev.twitter-font-enabler
 Name: twitter font enabler
-Version: 1.1 beta
+Version: 1.0
 Architecture: iphoneos-arm
 Description: This bash script enables fonts in Twitter. It is safe to use but it's still a script
 Maintainer: ElioFegh
@@ -53,7 +53,7 @@ Author: ElioFegh
 Section: Tweaks
 Depends: mobilesubstrate
 Filename:./debs/com.eliodev.youtube-version-editor-1.2.deb
-Size: 1608
+Size: 1188
 MD5sum: 4f27bdcd168782490d7b870d84dfe56e
 SHA1: d496d8e7d2d7f43c60b0d2e955506ff5239e2aab
 SHA256: df871e1362266449cb6c682c8757076724ae66c721a937dfa810d69c25229f3c
