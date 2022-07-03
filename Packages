@@ -65,8 +65,7 @@ Architecture: iphoneos-arm
 Description: do math!!!!
 Maintainer: ElioFegh
 Author: ElioFegh
-Section: Tweaks
-Depends: mobilesubstrate
+Section: Tools
 Filename:./debs/com.eliodev.factorial-tool-1.1.deb
 Size: 4536
 MD5sum: 766546e7fa9ee0dcdbc2e7579658b6bf
