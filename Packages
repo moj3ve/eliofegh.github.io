@@ -3,9 +3,9 @@ Name: duolingo font enabler
 Version: 1.0
 Architecture: iphoneos-arm
 Description: enable fonts in duolingo
-Maintainer: ElioDev
-Author: ElioDev
-Section: Tweaks
+Maintainer: ElioFegh
+Author: ElioFegh
+Section: Tools
 Depends: plutil
 Filename:./debs/com.eliodev.duolingo-font-enabler-1.0.deb
 Size: 1684
@@ -18,9 +18,9 @@ Name: twitter font enabler
 Version: 1.0
 Architecture: iphoneos-arm
 Description: enable fonts in twitter
-Maintainer: ElioDev
-Author: ElioDev
-Section: Tweaks
+Maintainer: ElioFegh
+Author: ElioFegh
+Section: Tools
 Depends: plutil
 Filename:./debs/com.eliodev.twitter-font-enabler-1.0.deb
 Size: 1572
@@ -33,8 +33,8 @@ Name: zoom jailbreak detection bypass
 Version: 1.0
 Architecture: iphoneos-arm
 Description: hides zoom jailbreak detection alert on startup when launching the zoom app
-Maintainer: ElioDev
-Author: ElioDev
+Maintainer: ElioFegh
+Author: ElioFegh
 Section: Tweaks
 Depends: mobilesubstrate
 Filename:./debs/zoomjbdetectionbypass1.0.deb
@@ -42,3 +42,19 @@ Size: 3800
 MD5sum: 7a1355c28282dd9b2b5ceb4aaef20004
 SHA1: 150a378621429e7c8b2c20907e1607e76d2e4f7b
 SHA256: b536bcb10afa83cd80ebd1a1ca013913d096abe58ac60039658374a1c841f65b
+
+Package: com.eliodev.youtube-version-editor
+Name: Youtube version editor
+Version: 1.2
+Architecture: iphoneos-arm
+Description: change your youtube version without the need of the appstore!
+Maintainer: ElioFegh
+Author: ElioFegh
+Section: Tweaks
+Depends: mobilesubstrate
+Filename:./debs/com.eliodev.youtube-version-editor-1.2.deb
+Size: 1608
+MD5sum: 4f27bdcd168782490d7b870d84dfe56e
+SHA1: d496d8e7d2d7f43c60b0d2e955506ff5239e2aab
+SHA256: df871e1362266449cb6c682c8757076724ae66c721a937dfa810d69c25229f3c
+
