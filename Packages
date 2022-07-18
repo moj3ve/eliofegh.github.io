@@ -72,5 +72,20 @@ MD5sum: 766546e7fa9ee0dcdbc2e7579658b6bf
 SHA1: edaf8355cf63788362f55b3f525682a6f8fc312e
 SHA256: 62ebfd50aaa951d2e03d9a41003029b456c3b0d93b4b81c7263e5c4718d9c0ed
 
+Package: com.eliofegh.status-bar-changer
+Name: status bar changer
+Version: 1.7
+Architecture: iphoneos-arm
+Description: change everything in your status bar
+Maintainer: ElioFegh
+Author: ElioFegh
+Section: Tweaks
+Depends: mobilesubstrate
+Filename:./debs/com.eliofegh.status-bar-changer_1.7.deb
+Depiction: https://eliofegh.github.io/depictions/status-bar-changer.html
+Size: 171120
+MD5sum: ea61e796bc4f197e43f5254cdab3d7e8
+SHA1: da0dc60cf5903d59b84a8e36362616e254ba0c2d
+SHA256: 3cda0746e9e12d678b31d6c1087a4b2325de8cb3ec986b9ccc5fae78de06bb23
 
 
