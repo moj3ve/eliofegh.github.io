@@ -1,5 +1,5 @@
 Package: com.eliodev.duolingo-font-enabler
-Name: duolingo font enabler
+Name: duolingo font enabler (Script)
 Version: 1.0
 Architecture: iphoneos-arm
 Description: This bash script enables fonts in Duolingo. It is safe to use but it's still a script
@@ -14,7 +14,7 @@ SHA1: b17f1c33663c18c54a54fe7bdc02d8d4636025c1
 SHA256: 23bdbb8ddf33a7ca88aacce9c7d4fb0834d0db60bd5cbd1cadc339c4562562bc
 
 Package: com.eliodev.twitter-font-enabler
-Name: twitter font enabler
+Name: twitter font enabler (Script)
 Version: 1.0
 Architecture: iphoneos-arm
 Description: This bash script enables fonts in Twitter. It is safe to use but it's still a script
@@ -47,7 +47,7 @@ Package: com.eliodev.youtube-version-editor
 Name: Youtube version editor
 Version: 1.2
 Architecture: iphoneos-arm
-Description: change your youtube version without the need of the appstore!
+Description: change your youtube version without the need of the appstore! (outdated Tweak)
 Maintainer: ElioFegh
 Author: ElioFegh
 Section: Tweaks
@@ -58,7 +58,7 @@ MD5sum: 4f27bdcd168782490d7b870d84dfe56e
 SHA1: d496d8e7d2d7f43c60b0d2e955506ff5239e2aab
 SHA256: df871e1362266449cb6c682c8757076724ae66c721a937dfa810d69c25229f3c
 
-<!--Package: com.eliodev.factorial-tool
+Package: com.eliodev.factorial-tool
 Name: Factorial tool
 Version: 1.1
 Architecture: iphoneos-arm
@@ -70,7 +70,7 @@ Filename:./debs/com.eliodev.factorial-tool-1.1.deb
 Size: 4536
 MD5sum: 766546e7fa9ee0dcdbc2e7579658b6bf
 SHA1: edaf8355cf63788362f55b3f525682a6f8fc312e
-SHA256: 62ebfd50aaa951d2e03d9a41003029b456c3b0d93b4b81c7263e5c4718d9c0ed -->
+SHA256: 62ebfd50aaa951d2e03d9a41003029b456c3b0d93b4b81c7263e5c4718d9c0ed
 
 Package: com.eliofegh.status-bar-changer
 Name: status bar changer
