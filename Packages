@@ -58,7 +58,7 @@ MD5sum: 4f27bdcd168782490d7b870d84dfe56e
 SHA1: d496d8e7d2d7f43c60b0d2e955506ff5239e2aab
 SHA256: df871e1362266449cb6c682c8757076724ae66c721a937dfa810d69c25229f3c
 
-Package: com.eliodev.factorial-tool
+<!--Package: com.eliodev.factorial-tool
 Name: Factorial tool
 Version: 1.1
 Architecture: iphoneos-arm
@@ -70,7 +70,7 @@ Filename:./debs/com.eliodev.factorial-tool-1.1.deb
 Size: 4536
 MD5sum: 766546e7fa9ee0dcdbc2e7579658b6bf
 SHA1: edaf8355cf63788362f55b3f525682a6f8fc312e
-SHA256: 62ebfd50aaa951d2e03d9a41003029b456c3b0d93b4b81c7263e5c4718d9c0ed
+SHA256: 62ebfd50aaa951d2e03d9a41003029b456c3b0d93b4b81c7263e5c4718d9c0ed -->
 
 Package: com.eliofegh.status-bar-changer
 Name: status bar changer
@@ -88,6 +88,23 @@ Size: 171120
 MD5sum: ea61e796bc4f197e43f5254cdab3d7e8
 SHA1: da0dc60cf5903d59b84a8e36362616e254ba0c2d
 SHA256: 3cda0746e9e12d678b31d6c1087a4b2325de8cb3ec986b9ccc5fae78de06bb23
+
+Package: com.eliofegh.status-bar-changer
+Name: status bar changer
+Version: 1.9
+Architecture: iphoneos-arm
+Description: change everything in your status bar
+Maintainer: ElioFegh
+Author: ElioFegh
+Section: Tweaks
+Depends: mobilesubstrate
+Filename:./debs/com.eliofegh.status-bar-changer_1.9.deb
+Depiction: https://eliofegh.github.io/depictions/status-bar-changer/status-bar-changer.html
+Icon: https://eliofegh.github.io/depictions/status-bar-changer/icon.png
+Size: 211158
+MD5sum: 4f9e902bdb9a8197feb6ddc12758fc43
+SHA1: fd4e96e0e1cc09e8532fe80146b78786e1869472
+SHA256: 47cd24258fa6feb3703c0cb26d29636955a3599d106b340d1bd37375cf8a90eb
 
 Package: com.eliofegh.dnd-quotes
 Name: DND Quotes
