@@ -88,3 +88,20 @@ Size: 171120
 MD5sum: ea61e796bc4f197e43f5254cdab3d7e8
 SHA1: da0dc60cf5903d59b84a8e36362616e254ba0c2d
 SHA256: 3cda0746e9e12d678b31d6c1087a4b2325de8cb3ec986b9ccc5fae78de06bb23
+
+Package: com.eliofegh.dnd-quotes
+Name: DND Quotes
+Version: 1.3
+Architecture: iphoneos-arm
+Description: Get a random quote everytime you enable Do Not Disturb and more features!
+Maintainer: ElioFegh
+Author: ElioFegh
+Section: Tweaks
+Depends: mobilesubstrate
+Filename:./debs/com.eliofegh.dnd-quotes_1.3.deb
+Depiction: https://eliofegh.github.io/depictions/dnd-quotes/dnd-quotes.html
+Icon: https://eliofegh.github.io/depictions/dnd-quotes/icon.jpg
+Size: 164412
+MD5sum: 43509080fa4101b3c65561ee882949f2
+SHA1: ee767757496a552752353d6e0bca41f71add645e
+SHA256: 158d836c39f1417cf9e7d3e13e13bdcf7700cf8d0ed23078008a701eb54d3a36
