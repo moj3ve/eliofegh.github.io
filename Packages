@@ -2,7 +2,7 @@ Package: com.eliodev.duolingo-font-enabler
 Name: duolingo font enabler (Script)
 Version: 1.0
 Architecture: iphoneos-arm
-Description: This bash script enables fonts in Duolingo. It is safe to use but it's still a script
+Description: This bash script enables fonts in Duolingo. It is safe to use but it's still a script.
 Maintainer: ElioFegh
 Author: ElioFegh
 Section: Tools
@@ -17,7 +17,7 @@ Package: com.eliodev.twitter-font-enabler
 Name: twitter font enabler (Script)
 Version: 1.0
 Architecture: iphoneos-arm
-Description: This bash script enables fonts in Twitter. It is safe to use but it's still a script
+Description: This bash script enables fonts in Twitter. It is safe to use but it's still a script.
 Maintainer: ElioFegh
 Author: ElioFegh
 Section: Tools
