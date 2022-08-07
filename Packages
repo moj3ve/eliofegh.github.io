@@ -106,6 +106,23 @@ MD5sum: 4f9e902bdb9a8197feb6ddc12758fc43
 SHA1: fd4e96e0e1cc09e8532fe80146b78786e1869472
 SHA256: 47cd24258fa6feb3703c0cb26d29636955a3599d106b340d1bd37375cf8a90eb
 
+Package: com.eliofegh.status-bar-changer
+Name: status bar changer
+Version: 1.9.5
+Architecture: iphoneos-arm
+Description: change everything in your status bar
+Maintainer: ElioFegh
+Author: ElioFegh
+Section: Tweaks
+Depends: mobilesubstrate
+Filename:./debs/com.eliofegh.status-bar-changer_1.9.5.deb
+Depiction: https://eliofegh.github.io/depictions/status-bar-changer/status-bar-changer.html
+Icon: https://eliofegh.github.io/depictions/status-bar-changer/icon.png
+Size: 211266
+MD5sum: 0031df4ae02113d04640814a07401cdb
+SHA1: 41e1a25b17ab6457e5c464f115a9643e5cd98d3d
+SHA256: 688f1b6da35e073a81b016b3ae38b5098fa4ab976ed0faee1f508dbaa532228f
+
 Package: com.eliofegh.dnd-quotes
 Name: DND Quotes
 Version: 1.3
