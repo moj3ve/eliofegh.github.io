@@ -139,3 +139,20 @@ Size: 164424
 MD5sum: 5c3bd16b7a601675faf6d7bd0b1320a0
 SHA1: dc1353fe033dd2366b3da17e64ef6951522772c0
 SHA256: d6be3a75b5cdffbcc7a38b621c712d59b6c0f82b4b4c4027ce1e4525e0280cea
+
+Package: com.eliofegh.uiswitch-changer
+Name: UISwitch changer
+Version: 1.0
+Architecture: iphoneos-arm
+Description: custom color for your uiswitch!
+Maintainer: ElioFegh
+Author: ElioFegh
+Section: Tweaks
+Depends: mobilesubstrate
+Filename:./debs/com.eliofegh.uiswitch-changer_1.0.deb
+Depiction: https://eliofegh.github.io/depictions/uiswitch-changer/uiswitch-changer.html
+Icon: https://eliofegh.github.io/depictions/uiswitch-changer/icon.jpg
+Size: 20760
+MD5sum: 9eb316ba8f4d0f12c8ee24d3379dde46
+SHA1: b120199c71daf54ef6a0ea9b9a3ac448a0658214
+SHA256: 2baacfe8c894c2f75db1bbacd5e72d3f7a45bdb24984f270ab2bce46a9b152bc
