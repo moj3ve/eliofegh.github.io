@@ -140,6 +140,23 @@ MD5sum: 5c3bd16b7a601675faf6d7bd0b1320a0
 SHA1: dc1353fe033dd2366b3da17e64ef6951522772c0
 SHA256: d6be3a75b5cdffbcc7a38b621c712d59b6c0f82b4b4c4027ce1e4525e0280cea
 
+Package: com.eliofegh.dnd-quotes
+Name: DND Quotes
+Version: 1.5
+Architecture: iphoneos-arm
+Description: Get a random quote everytime you enable Do Not Disturb and more features!
+Maintainer: ElioFegh
+Author: ElioFegh
+Section: Tweaks
+Depends: mobilesubstrate
+Filename:./debs/com.eliofegh.dnd-quotes_1.5.deb
+Depiction: https://eliofegh.github.io/depictions/dnd-quotes/dnd-quotes.html
+Icon: https://eliofegh.github.io/depictions/dnd-quotes/icon.jpg
+Size: 164942
+MD5sum: 31840c6add81c613e6adf103777a0be7
+SHA1: 83e265baacdb2de4d773b5891e48e3c013869328
+SHA256: 4791bdff8f72752943726caa09f1d7668241de0587aafb57914b2fe6053d4702
+
 Package: com.eliofegh.uiswitch-changer
 Name: UISwitch changer
 Version: 1.0
