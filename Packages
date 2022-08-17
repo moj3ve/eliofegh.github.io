@@ -183,7 +183,7 @@ Maintainer: ElioFegh
 Author: ElioFegh
 Section: Tweaks
 Depends: mobilesubstrate
-Filename:./debs/eliofegh.calculative_1.0.deb
+Filename:./debs/com.eliofegh.calculative_1.0.deb
 Depiction: https://eliofegh.github.io/depictions/calculative/calculative.html
 Icon: https://eliofegh.github.io/depictions/calculative/icon.jpg
 Size: 21846
