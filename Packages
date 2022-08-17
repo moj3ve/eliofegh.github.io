@@ -173,3 +173,20 @@ Size: 20760
 MD5sum: 9eb316ba8f4d0f12c8ee24d3379dde46
 SHA1: b120199c71daf54ef6a0ea9b9a3ac448a0658214
 SHA256: 2baacfe8c894c2f75db1bbacd5e72d3f7a45bdb24984f270ab2bce46a9b152bc
+
+Package: com.eliofegh.calculative
+Name: calculative
+Version: 1.0
+Architecture: iphoneos-arm
+Description: a creative calculator style!
+Maintainer: ElioFegh
+Author: ElioFegh
+Section: Tweaks
+Depends: mobilesubstrate
+Filename:./debs/eliofegh.calculative_1.0.deb
+Depiction: https://eliofegh.github.io/depictions/calculative/calculative.html
+Icon: https://eliofegh.github.io/depictions/calculative/icon.jpg
+Size: 21846
+MD5sum: e1d5f2fd7b48defcc8d34b2f63dfa4b4
+SHA1: b782a6f64a71c618929308609edbaf36b1c1f0fe
+SHA256: 6cebc5eb43caf6c8e40509f7f0d0412d8176e327f5789501110d22adb612ccdf
