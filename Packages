@@ -190,3 +190,21 @@ Size: 21846
 MD5sum: e1d5f2fd7b48defcc8d34b2f63dfa4b4
 SHA1: b782a6f64a71c618929308609edbaf36b1c1f0fe
 SHA256: 6cebc5eb43caf6c8e40509f7f0d0412d8176e327f5789501110d22adb612ccdf
+
+Package: com.eliofegh.hello-style
+Name: helloStyle
+Version: 0.0.1-b1
+Architecture: iphoneos-arm
+Description: hello!
+Maintainer: ElioFegh
+Author: ElioFegh
+Section: Tweaks
+Depends: mobilesubstrate
+Filename:./debs/com.eliofegh.hello-style_0.0.1-b1.deb
+Depiction: https://eliofegh.github.io/depictions/hello-style/hello-style.html
+Icon: https://eliofegh.github.io/depictions/hello-style/icon.jpeg
+Size: 41418
+MD5sum: 159ce916693429e7972c271570015547
+SHA1: b7f14e41638661aee06e94324ead7deb6ee2ec39
+SHA256: 61d72559578389a283aee708d91c9cc655da287487c584fbeac05eedb7296a56
+
