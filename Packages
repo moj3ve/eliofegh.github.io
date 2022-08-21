@@ -123,6 +123,23 @@ MD5sum: 0031df4ae02113d04640814a07401cdb
 SHA1: 41e1a25b17ab6457e5c464f115a9643e5cd98d3d
 SHA256: 688f1b6da35e073a81b016b3ae38b5098fa4ab976ed0faee1f508dbaa532228f
 
+Package: com.eliofegh.status-bar-changer
+Name: status bar changer
+Version: 1.9.7
+Architecture: iphoneos-arm
+Description: change everything in your status bar
+Maintainer: ElioFegh
+Author: ElioFegh
+Section: Tweaks
+Depends: mobilesubstrate
+Filename:./debs/com.eliofegh.status-bar-changer_1.9.7.deb
+Depiction: https://eliofegh.github.io/depictions/status-bar-changer/status-bar-changer.html
+Icon: https://eliofegh.github.io/depictions/status-bar-changer/icon.png
+Size: 211288
+MD5sum: 186b9b6ac092cc2c3c8ff45efcd4fa7b
+SHA1: c944993e79c48b62c3b3e99583d9a24e609e6174
+SHA256: e9a81456e73b8716875a3c8423fa348a45c79f419e5414b9de2d24f83a52994a
+
 Package: com.eliofegh.dnd-quotes
 Name: DND Quotes
 Version: 1.3
@@ -224,4 +241,39 @@ Size: 41434
 MD5sum: 4af1f36f676f52852da328e1a2f2a554
 SHA1: 4d7dd9043546fa6fc64200d4f36cac3447048233
 SHA256: 1b72a1ef50ad064c28c6c325c26f9da1fc764a48e56ebcbac6926a3896f0c073
+
+Package: com.eliofegh.date-bar
+Name: date bar
+Version: 1.0
+Architecture: iphoneos-arm
+Description: more date!
+Maintainer: ElioFegh
+Author: ElioFegh
+Section: Tweaks
+Depends: mobilesubstrate
+Filename:./debs/com.eliofegh.date-bar_1.0.deb
+Depiction: https://eliofegh.github.io/depictions/date-bar/date-bar.html
+Icon: https://eliofegh.github.io/depictions/date-bar/icon.png
+Size: 3670
+MD5sum: c896ca6bb43438b03563c10a2f6d9b9d
+SHA1: c944993e79c48b62c3b3e99583d9a24e609e6174
+SHA256: e9a81456e73b8716875a3c8423fa348a45c79f419e5414b9de2d24f83a52994a
+
+Package: com.eliofegh.compact-date
+Name: compact date
+Version: 1.0
+Architecture: iphoneos-arm
+Description: compact date below lockscreen time
+Maintainer: ElioFegh
+Author: ElioFegh
+Section: Tweaks
+Depends: mobilesubstrate
+Filename:./debs/com.eliofegh.compact-date_1.0.deb
+Depiction: https://eliofegh.github.io/depictions/compact-date/compact-date.html
+Icon: https://eliofegh.github.io/depictions/compact-date/icon.png
+Size: 2754
+MD5sum: 42612447b2084f77effbe78632b128c4
+SHA1: 69e46e2b26fde7137ca567cae9ead323d16f06f0
+SHA256: 909a73d3f6bed780b9c1c77748bb1d428043d3e6bc6c423fe3662f6eb390a0bc
+
 
