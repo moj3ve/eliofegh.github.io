@@ -276,6 +276,23 @@ MD5sum: ff45e556f0cc0390a6ab3f8144b9f836
 SHA1: c9d2fae58f8a69843072a82a7ae2e683c09da978
 SHA256: 12d421397dfbdc7871588a2d1a6b879549e9bd4490a52cbf216c69955c7ccf07
 
+Package: com.eliofegh.date-bar
+Name: date bar
+Version: 1.2
+Architecture: iphoneos-arm
+Description: more date!
+Maintainer: ElioFegh
+Author: ElioFegh
+Section: Tweaks
+Depends: mobilesubstrate
+Filename:./debs/com.eliofegh.date-bar_1.2.deb
+Depiction: https://eliofegh.github.io/depictions/date-bar/date-bar.html
+Icon: https://eliofegh.github.io/depictions/date-bar/icon.png
+Size: 26362
+MD5sum: a77faa4ad94f657f48ea9abf1e489307
+SHA1: 48a1b859fc4bfc75b19a14d8f4084e762b1fad74
+SHA256: cc9c99f23ffe137cf384a3d317c057ce601a25186aacc5c7c650e5c6e506eec6
+
 Package: com.eliofegh.compact-date
 Name: compact date
 Version: 1.0
