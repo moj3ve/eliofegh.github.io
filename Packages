@@ -310,4 +310,20 @@ MD5sum: 42612447b2084f77effbe78632b128c4
 SHA1: 69e46e2b26fde7137ca567cae9ead323d16f06f0
 SHA256: 909a73d3f6bed780b9c1c77748bb1d428043d3e6bc6c423fe3662f6eb390a0bc
 
+Package: com.eliofegh.voloc
+Name: voloc
+Version: 1.0
+Architecture: iphoneos-arm
+Description: custom color for your volume hud!
+Maintainer: ElioFegh
+Author: ElioFegh
+Section: Tweaks
+Depends: mobilesubstrate
+Filename:./debs/com.eliofegh.voloc_1.0_iphoneos-arm.deb
+Depiction: https://eliofegh.github.io/depictions/voloc/voloc.html
+Icon: https://eliofegh.github.io/depictions/voloc/icon.png
+Size: 24210
+MD5sum: 1d26ffc96d79baed606ccb81caaa3afb
+SHA1: 2ee742839635485dfa31f931f514cef31b12e91f
+SHA256: c7b9b28a7493e4b92c14579d328af64368a79efee8717ffcc3410f45506416fb
 
