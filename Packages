@@ -191,6 +191,23 @@ MD5sum: 9eb316ba8f4d0f12c8ee24d3379dde46
 SHA1: b120199c71daf54ef6a0ea9b9a3ac448a0658214
 SHA256: 2baacfe8c894c2f75db1bbacd5e72d3f7a45bdb24984f270ab2bce46a9b152bc
 
+Package: com.eliofegh.uiswitch-changer
+Name: UISwitch changer
+Version: 1.1
+Architecture: iphoneos-arm
+Description: custom color for your uiswitch!
+Maintainer: ElioFegh
+Author: ElioFegh
+Section: Tweaks
+Depends: mobilesubstrate
+Filename:./debs/com.eliofegh.uiswitch-changer_1.1_iphoneos-arm.deb
+Depiction: https://eliofegh.github.io/depictions/uiswitch-changer/uiswitch-changer.html
+Icon: https://eliofegh.github.io/depictions/uiswitch-changer/icon.jpg
+Size: 21384
+MD5sum: acee2b059742d4a04678bcc64c8df1b3
+SHA1: ffcfcee156e7b343c56fc7846806e050cb3a5aea
+SHA256: 48a00e24e8cf9cef784eba972152ab2ebaf85730a96f6c8be7478e01730362e3
+
 Package: com.eliofegh.calculative
 Name: calculative
 Version: 1.0
@@ -327,3 +344,19 @@ MD5sum: 1d26ffc96d79baed606ccb81caaa3afb
 SHA1: 2ee742839635485dfa31f931f514cef31b12e91f
 SHA256: c7b9b28a7493e4b92c14579d328af64368a79efee8717ffcc3410f45506416fb
 
+Package: com.eliofegh.voloc
+Name: voloc
+Version: 1.1
+Architecture: iphoneos-arm
+Description: custom color for your volume hud!
+Maintainer: ElioFegh
+Author: ElioFegh
+Section: Tweaks
+Depends: mobilesubstrate
+Filename:./debs/com.eliofegh.voloc_1.1_iphoneos-arm.deb
+Depiction: https://eliofegh.github.io/depictions/voloc/voloc.html
+Icon: https://eliofegh.github.io/depictions/voloc/icon.png
+Size: 23698
+MD5sum: cf43420173d4a08d5d37358234b7ffe2
+SHA1: 4866cbba3b15ca04bebc2636464085ee1a7dbda4
+SHA256: 5b11155815d5f413442b78d5a6e5ba91d3353a7e7c2922c13d83a92cf3abcd32
